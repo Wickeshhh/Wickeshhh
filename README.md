@@ -1,10 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Akhilesh P S</h1>
 <h3 align="center"> Java | Full Stack Developer | React | Node.js | Express | Figma | Framer</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Wickeshhh/Wickeshhh/main/aki.png" width="200" alt="Akhilesh P S" style="border-radius: 50%">
-</p>
-
 ---
 
 ### 🔥 About Me
