@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Akhilesh P S</h1>
-<h3 align="center"> Java | Full Stack Developer | React | Node.js | Express | Figma | Framer</h3>
+<h3 align="center"> Java | React | Node.js | Express | Figma | Framer</h3>
 ---
 
 ### 🔥 About Me
